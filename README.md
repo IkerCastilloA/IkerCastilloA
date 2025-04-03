@@ -29,8 +29,8 @@ I am passionate about leveraging **AI, machine learning, and bioinformatics** to
 
 ## 📫 Connect with Me  
 - 📧 **Email:** ikerncastilloa@gmail.com  
-- 🔗 **GitHub:** [github.com/yourusername](https://github.com/IkerCastilloA)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/iker-nicolás-castillo-alvarez-448678301/)  
+- 🔗 **GitHub:** [github.com/IkerCastillo](https://github.com/IkerCastilloA)  
+- 💼 **LinkedIn:** [linkedin.com/in/IkerCastillo](https://www.linkedin.com/in/iker-nicolás-castillo-alvarez-448678301/)  
 
 ---  
 💡 **Always learning, always building. Let’s connect! 🚀**
